@@ -1,0 +1,6 @@
+{
+  "name": "Apna Wakeel",
+  "description": "AI-powered legal navigation and guidance system for Chitral and Khyber Pakhtunkhwa (KP), Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
